@@ -1,0 +1,2 @@
+[[AndroidManifest]]
+[[Obtaining the APK]]
