@@ -1,1 +1,6 @@
-Obsidian-1.1.9.AppImage
+.obsidian/plugins
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+Obsidian.AppImage
