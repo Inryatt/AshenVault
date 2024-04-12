@@ -5,7 +5,7 @@
 
 ### zero2auto
 [Zero2Automated](https://courses.zero2auto.com/adv-malware-analysis-course)
-
+[Zero2Hero](https://0verfl0w.podia.com/view/courses/malware-analysis-course)
 ### Sektor7
 [RED TEAM Operator: Malware Development Essentials Course](https://institute.sektor7.net/red-team-operator-malware-development-essentials)
 [RED TEAM Operator: Malware Development Intermediate Course](https://institute.sektor7.net/rto-maldev-intermediate)
@@ -28,4 +28,6 @@
 
 					  ```
 Src: Pengrey
+
+[Pwn.College](https://pwn.college)
 
