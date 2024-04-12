@@ -1,6 +1,4 @@
-```c
-
-### Maldev
+### Maldev Academy
 [Maldev](https://maldevacademy.com/)
 
 ### zero2auto
@@ -26,8 +24,6 @@
 ### darkvortex
 [Malware On Steroids](https://0xdarkvortex.dev/training-programs/malware-on-steroids/)
 
-					  ```
-Src: Pengrey
 
 [Pwn.College](https://pwn.college)
 
