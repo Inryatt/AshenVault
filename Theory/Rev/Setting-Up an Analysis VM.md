@@ -16,5 +16,5 @@
 
 For FlareVM Installation:
 - https://github.com/jeremybeaume/tools/blob/master/disable-defender.ps1
-
+https://superuser.com/questions/1757339/how-to-permanently-disable-windows-defender-real-time-protection-with-gpo/1757341#1757341 
 
