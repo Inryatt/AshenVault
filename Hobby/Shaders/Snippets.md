@@ -8,3 +8,4 @@ Bonzomatic
 
 ```
 
+My screen X coordin is in \[-1,78,1.78] range
